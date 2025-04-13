@@ -29,5 +29,5 @@ int transpose(matrix_t *A, matrix_t *result);
 int calc_complements(matrix_t *A, matrix_t *result);
 int determinant(matrix_t *A, double *result);
 int inverse_matrix(matrix_t *A, matrix_t *result);
-cd 
+cd;
 #endif
